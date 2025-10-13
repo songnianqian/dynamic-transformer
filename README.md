@@ -437,8 +437,9 @@ This project draws on insights from:
 
 ---
 
-> *“If we design learning automata that evolve through reasoning, mutation, and replacement — like biological systems — the next generation of intelligence will learn as nature intended.”*  
+> *“If we design learning automata that evolve through reasoning, mutation, and replacement — like biological systems — the next generation of intelligence will learn as nature intended. A Road to AGI.”*  
 > — Songnian Qian
+
 
 
 
