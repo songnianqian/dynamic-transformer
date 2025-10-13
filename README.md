@@ -24,7 +24,7 @@ The design introduces eight complementary innovations that together redefine how
 | 7 | Multiple Specialized LM Heads | Domain-specific vocabulary projection |
 | 8 | Evaluation Metrics – Redefining Perplexity (sPPL⁺) | Measure *semantic* quality instead of token accuracy |
 
-Together these mechanisms aim for **5–10 × inference speed-up**, **semantic robustness**, and **modular scalability** to 100 K + token contexts.
+Together these mechanisms aim for **5–10 × inference speed-up**, **semantic robustness**, and **modular scalability** to 100 K + token contexts. Increase model size without add computation costs.
 
 ---
 
@@ -444,6 +444,7 @@ This project draws on insights from:
 
 > *“If we design learning automata that evolve through reasoning, mutation, and replacement — like biological systems — the next generation of intelligence will learn as nature intended.”*  
 > — Songnian Qian
+
 
 
 
