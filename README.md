@@ -221,7 +221,7 @@ we can **scale horizontally** — add experts and smarter gating — to gain cap
 
 ### 🔹 The Problem
 Traditional language models rely on a **single large projection head** to map hidden states to a vocabulary of 50 000 + tokens.  
-This creates a major computational bottleneck — every token update multiplies by the entire vocabulary —  
+This creates a computational bottleneck — every token update multiplies by the entire vocabulary —  
 and fails to capture that *the same word can mean different things in different contexts*.
 
 ### 🔹 The Solution — Multi-Header Architecture with Fast-K Inference
@@ -439,6 +439,7 @@ This project draws on insights from:
 
 > *“If we design learning automata that evolve through reasoning, mutation, and replacement — like biological systems — the next generation of intelligence will learn as nature intended.”*  
 > — Songnian Qian
+
 
 
 
