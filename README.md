@@ -74,7 +74,7 @@ This design partitions embeddings into multiple **reduced-dimension expert paths
 
 ### ⚙️ Insight
 
-Large embedding sizes only make sense when the model uses **multi-path or expert-based specialization** (introduced in the next part).  
+Large embedding sizes not make sense when the model uses **multi-path or expert-based specialization** (introduced in the next part).  
 Without routing, every token passes through the entire 4096-dimensional stack — resulting in massive, unnecessary computation.
 
 ### 💡 Benefits
@@ -444,5 +444,6 @@ This project draws on insights from:
 
 > *“If we design learning automata that evolve through reasoning, mutation, and replacement — like biological systems — the next generation of intelligence will learn as nature intended.”*  
 > — Songnian Qian
+
 
 
