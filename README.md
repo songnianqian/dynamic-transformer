@@ -1,4 +1,7 @@
 # 🧠 New LLM Design – Dynamic Multi-Component Transformer
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Status: R&D](https://img.shields.io/badge/status-R%26D-orange.svg)]()
+[![Python](https://img.shields.io/badge/python-3.10+-green.svg)]()
 
 **Author:** Songnian Qian  
 **Status:** Research & Development  
@@ -445,6 +448,7 @@ This project draws on insights from:
 
 > *“If we design learning automata that evolve through reasoning, mutation, and replacement — like biological systems — the next generation of intelligence will learn as nature intended. A Road to AGI.”*  
 > — Songnian Qian
+
 
 
 
