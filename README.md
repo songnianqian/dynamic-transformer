@@ -416,7 +416,13 @@ This formulation rewards semantically correct alternatives even if the exact tok
 ---
 
 ## 📂 Repository Structure (Planned)
-
+├── context_readers_model.py         # SpeedyGate MoE FFN module
+├── context_readers_training.py      # Training loop for MoE + routing
+├── multi_header_fastk.py            # Multi-LM-Head Fast-K implementation (In different project)
+├── evaluation/                      # Scripts for sPPL⁺ and semantic scoring
+├── checkpoints/                     # Sample or reference weights
+├── README.md
+└── LICENSE
 
 ---
 
@@ -439,6 +445,7 @@ This project draws on insights from:
 
 > *“If we design learning automata that evolve through reasoning, mutation, and replacement — like biological systems — the next generation of intelligence will learn as nature intended. A Road to AGI.”*  
 > — Songnian Qian
+
 
 
 
