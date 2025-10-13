@@ -200,7 +200,7 @@ Implemented in [`MultiMLPLayer`](context_readers_model.py):contentReference[oaic
 - 🌈 **Diversity:** millions of token-specific computation paths  
 - 🧠 **Simplicity:** all experts share the same interface, easy to train
 
-Without MLP, Experts FFN achevived same performance.
+Without MLP, Experts FFN achieved same performance.
 
 Layer statistics show light experts dominate — many layers select **FiLM** or **perc4** over 70 % of the time.  
 This proves the heavy GPT-style 2E MLP is unnecessary for most tokens.
@@ -439,6 +439,7 @@ This project draws on insights from:
 
 > *“If we design learning automata that evolve through reasoning, mutation, and replacement — like biological systems — the next generation of intelligence will learn as nature intended. A Road to AGI.”*  
 > — Songnian Qian
+
 
 
 
