@@ -80,7 +80,7 @@ Without routing, every token passes through the entire 4096-dimensional stack �
 ### 💡 Benefits
 
 - Maintains representational diversity with lower cost  
-- Reduces O(E²) computation in attention and FFN layers  
+- Reduces O(E) computation in all layers  
 - Enables specialization across input types without enlarging the full model
 
 > **Status:** 🔬 Concept implemented and validated in prototype.  
@@ -444,6 +444,7 @@ This project draws on insights from:
 
 > *“If we design learning automata that evolve through reasoning, mutation, and replacement — like biological systems — the next generation of intelligence will learn as nature intended.”*  
 > — Songnian Qian
+
 
 
 
