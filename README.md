@@ -1,4 +1,4 @@
-# 🧠 New LLM Design – Dynamic Multi-Component Transformer
+# 🧠 New LLM Transformer Design – SwiftTransformer
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Status: R&D](https://img.shields.io/badge/status-R%26D-orange.svg)]()
 [![Python](https://img.shields.io/badge/python-3.10+-green.svg)]()
@@ -11,7 +11,7 @@
 
 ## 🌟 Overview
 
-This repository presents a **Dynamic Multi-Component Transformer Architecture** built around  
+This repository presents a **SwiftTransformer Architecture** built around  
 **Next-N-Token Prediction** with **Semantic Coherence Evaluation**.
 
 The design introduces eight complementary innovations that together redefine how large language models learn and operate.
@@ -446,8 +446,7 @@ This project draws on insights from:
 
 ---
 
-> *“If we design learning automata that evolve through reasoning, mutation, and replacement — like biological systems — the next generation of intelligence will learn as nature intended. A Road to AGI.”*  
-> — Songnian Qian
+
 
 
 
