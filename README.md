@@ -248,7 +248,7 @@ massive savings when V = 50 000 and K = 50.
 
 ### 🧠 Architecture at a Glance
 
-Pilot Head → Top-K shortlist ──────────────┐
+Pilot Head → Top-K shortlist
 │
 Head 1, Head 2, … Head P-1 → Score Top-K tokens
 │
@@ -445,6 +445,7 @@ This project draws on insights from:
 - OpenAI GPT-2 baseline for proof-of-concept training  
 
 ---
+
 
 
 
