@@ -11,7 +11,7 @@
 
 ## 🌟 Overview
 
-![SwiftTransformer Architecture](https://songnianqian/dynamic-transformer/swifttransformer.png)
+![SwiftTransformer Architecture](https://songnianqian/dynamic-transformer/SwiftTransformer.png)
 
 This repository presents a **SwiftTransformer Architecture** built around  
 **Next-N-Token Prediction** with **Semantic Coherence Evaluation**.
@@ -447,6 +447,7 @@ This project draws on insights from:
 - OpenAI GPT-2 baseline for proof-of-concept training  
 
 ---
+
 
 
 
